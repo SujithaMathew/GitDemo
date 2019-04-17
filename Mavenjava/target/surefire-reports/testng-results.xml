@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+      <class name="sujithaacademy.SeleniumTest">
+        <test-method status="PASS" signature="Stest()[pri:0, instance:sujithaacademy.SeleniumTest@13c78c0b]" name="Stest" duration-ms="1" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stest -->
+        <test-method status="PASS" signature="Stest1()[pri:0, instance:sujithaacademy.SeleniumTest@13c78c0b]" name="Stest1" duration-ms="2" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stest1 -->
+      </class> <!-- sujithaacademy.SeleniumTest -->
+      <class name="sujithaacademy.RestTest">
+        <test-method status="PASS" signature="Rtest()[pri:0, instance:sujithaacademy.RestTest@50f8360d]" name="Rtest" duration-ms="25" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rtest -->
+        <test-method status="PASS" signature="Rtest1()[pri:0, instance:sujithaacademy.RestTest@50f8360d]" name="Rtest1" duration-ms="7" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rtest1 -->
+      </class> <!-- sujithaacademy.RestTest -->
+      <class name="sujithaacademy.AppiumTest">
+        <test-method status="PASS" signature="Atest()[pri:0, instance:sujithaacademy.AppiumTest@2cb4c3ab]" name="Atest" duration-ms="1" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atest -->
+        <test-method status="PASS" signature="Atest1()[pri:0, instance:sujithaacademy.AppiumTest@2cb4c3ab]" name="Atest1" duration-ms="0" started-at="2019-02-15T07:28:49Z" finished-at="2019-02-15T07:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atest1 -->
+      </class> <!-- sujithaacademy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
